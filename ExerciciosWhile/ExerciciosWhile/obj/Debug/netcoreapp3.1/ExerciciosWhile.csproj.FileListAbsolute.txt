@@ -1,0 +1,26 @@
+C:\Users\Usuario\OneDrive\Estudos\C#\ExerciciosWhile\ExerciciosWhile\bin\Debug\netcoreapp3.1\ExerciciosWhile.exe
+C:\Users\Usuario\OneDrive\Estudos\C#\ExerciciosWhile\ExerciciosWhile\bin\Debug\netcoreapp3.1\ExerciciosWhile.deps.json
+C:\Users\Usuario\OneDrive\Estudos\C#\ExerciciosWhile\ExerciciosWhile\bin\Debug\netcoreapp3.1\ExerciciosWhile.runtimeconfig.json
+C:\Users\Usuario\OneDrive\Estudos\C#\ExerciciosWhile\ExerciciosWhile\bin\Debug\netcoreapp3.1\ExerciciosWhile.runtimeconfig.dev.json
+C:\Users\Usuario\OneDrive\Estudos\C#\ExerciciosWhile\ExerciciosWhile\bin\Debug\netcoreapp3.1\ExerciciosWhile.dll
+C:\Users\Usuario\OneDrive\Estudos\C#\ExerciciosWhile\ExerciciosWhile\bin\Debug\netcoreapp3.1\ExerciciosWhile.pdb
+C:\Users\Usuario\OneDrive\Estudos\C#\ExerciciosWhile\ExerciciosWhile\obj\Debug\netcoreapp3.1\ExerciciosWhile.csprojAssemblyReference.cache
+C:\Users\Usuario\OneDrive\Estudos\C#\ExerciciosWhile\ExerciciosWhile\obj\Debug\netcoreapp3.1\ExerciciosWhile.AssemblyInfoInputs.cache
+C:\Users\Usuario\OneDrive\Estudos\C#\ExerciciosWhile\ExerciciosWhile\obj\Debug\netcoreapp3.1\ExerciciosWhile.AssemblyInfo.cs
+C:\Users\Usuario\OneDrive\Estudos\C#\ExerciciosWhile\ExerciciosWhile\obj\Debug\netcoreapp3.1\ExerciciosWhile.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Estudos\C#\ExerciciosWhile\ExerciciosWhile\obj\Debug\netcoreapp3.1\ExerciciosWhile.dll
+C:\Users\Usuario\OneDrive\Estudos\C#\ExerciciosWhile\ExerciciosWhile\obj\Debug\netcoreapp3.1\ExerciciosWhile.pdb
+C:\Users\Usuario\OneDrive\Estudos\C#\ExerciciosWhile\ExerciciosWhile\obj\Debug\netcoreapp3.1\ExerciciosWhile.genruntimeconfig.cache
+C:\Users\Lídia Tenório\OneDrive\Estudos\C#\ExerciciosWhile\ExerciciosWhile\bin\Debug\netcoreapp3.1\ExerciciosWhile.exe
+C:\Users\Lídia Tenório\OneDrive\Estudos\C#\ExerciciosWhile\ExerciciosWhile\bin\Debug\netcoreapp3.1\ExerciciosWhile.deps.json
+C:\Users\Lídia Tenório\OneDrive\Estudos\C#\ExerciciosWhile\ExerciciosWhile\bin\Debug\netcoreapp3.1\ExerciciosWhile.runtimeconfig.json
+C:\Users\Lídia Tenório\OneDrive\Estudos\C#\ExerciciosWhile\ExerciciosWhile\bin\Debug\netcoreapp3.1\ExerciciosWhile.runtimeconfig.dev.json
+C:\Users\Lídia Tenório\OneDrive\Estudos\C#\ExerciciosWhile\ExerciciosWhile\bin\Debug\netcoreapp3.1\ExerciciosWhile.dll
+C:\Users\Lídia Tenório\OneDrive\Estudos\C#\ExerciciosWhile\ExerciciosWhile\bin\Debug\netcoreapp3.1\ExerciciosWhile.pdb
+C:\Users\Lídia Tenório\OneDrive\Estudos\C#\ExerciciosWhile\ExerciciosWhile\obj\Debug\netcoreapp3.1\ExerciciosWhile.csprojAssemblyReference.cache
+C:\Users\Lídia Tenório\OneDrive\Estudos\C#\ExerciciosWhile\ExerciciosWhile\obj\Debug\netcoreapp3.1\ExerciciosWhile.AssemblyInfoInputs.cache
+C:\Users\Lídia Tenório\OneDrive\Estudos\C#\ExerciciosWhile\ExerciciosWhile\obj\Debug\netcoreapp3.1\ExerciciosWhile.AssemblyInfo.cs
+C:\Users\Lídia Tenório\OneDrive\Estudos\C#\ExerciciosWhile\ExerciciosWhile\obj\Debug\netcoreapp3.1\ExerciciosWhile.csproj.CoreCompileInputs.cache
+C:\Users\Lídia Tenório\OneDrive\Estudos\C#\ExerciciosWhile\ExerciciosWhile\obj\Debug\netcoreapp3.1\ExerciciosWhile.dll
+C:\Users\Lídia Tenório\OneDrive\Estudos\C#\ExerciciosWhile\ExerciciosWhile\obj\Debug\netcoreapp3.1\ExerciciosWhile.pdb
+C:\Users\Lídia Tenório\OneDrive\Estudos\C#\ExerciciosWhile\ExerciciosWhile\obj\Debug\netcoreapp3.1\ExerciciosWhile.genruntimeconfig.cache

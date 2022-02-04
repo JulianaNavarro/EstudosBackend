@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "mnpAaly3NL6YmR4WkNteKnhithmiDYZR+2Denlr1V1q5XfrGI01xvSDNOdEGdyLW5aod/Tn9DS3h2kEsCdvlLQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lidia\\OneDrive\\Estudos\\C#\\ExerciciosSequencial\\ExerciciosSequencial\\ExerciciosSequencial.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lidia\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}

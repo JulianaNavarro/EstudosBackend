@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "g4DM9hoI2ZplYko5FTRlzUdMYHNjpF9k366xJSEk4MIytAePlV2vFT6P830BFcfAOdgU03kiQzGz9odJdZLoBw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lidia\\OneDrive\\Estudos\\C#\\ExerciciosCondicional\\ExerciciosCondicional\\ExerciciosCondicional.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lidia\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}
